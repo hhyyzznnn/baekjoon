@@ -16,7 +16,7 @@ def solve():
     
     for elem in L1:
         print(str(D[elem]), end = " ")
-    print("\n")
+    print("n")
 
     pass
 
