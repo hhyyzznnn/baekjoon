@@ -15,8 +15,8 @@ def solve():
             list_enter.append(key)
 
     list_enter.sort(reverse = True)
-    print(" ".join(list_enter))
-    
+    print("\n".join(list_enter))
+
     pass
 
 if __name__ == "__main__":
